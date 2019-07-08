@@ -1,4 +1,4 @@
-# Image-Restoration Team
+# Image-Restoration Team - Learning to See in the Dark Project
 
 Contributors (All equally contributed):
 
